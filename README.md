@@ -1,1 +1,1 @@
-![Merhaba](http://lmsotfy.com/so.png)
+ ![Diagram](HRMS Untitled Diagram.png)
